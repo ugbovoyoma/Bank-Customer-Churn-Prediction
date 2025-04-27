@@ -4,9 +4,7 @@
 
 This repository contains a machine learning pipeline for predicting bank customer churn. I explored several classification models, including Logistic Regression, K-Nearest Neighbors, Support Vector Machine, Decision Trees, and Random Forest.
 
-## Dataset
-
-### Source: 
+## Dataset Source: 
 The dataset was obtained from kaggle. https://www.kaggle.com/datasets/shubhammeshram579/bank-customer-churn-prediction
 
 ### Key features:
